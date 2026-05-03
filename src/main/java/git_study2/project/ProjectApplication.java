@@ -9,6 +9,7 @@ public class ProjectApplication {
 		System.out.println("new line");
 		System.out.println("Yangi narsa qo'shildi");
 		System.out.println("A");
+		System.out.println("Nima nima gap");
 
 		for (int i = 0; i < 5; i++) {
 			System.out.println(i);
