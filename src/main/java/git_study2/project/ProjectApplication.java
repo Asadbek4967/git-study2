@@ -7,9 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjectApplication {
 	public static void main(String[] args) {
 		System.out.println("new line");
-		System.out.println("Yangi narsa qo'shildi");
-		System.out.println("A");
-		System.out.println("Nima nima gap");
+		System.out.println("a");
+		System.out.println("b");
+		System.out.println("c");
+		System.out.println("d");
+
 
 		for (int i = 0; i < 5; i++) {
 			System.out.println(i);
